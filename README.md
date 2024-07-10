@@ -33,6 +33,7 @@ The project includes the following steps:
 ## Files Included
 
 - `breast_cancer_nn.ipynb`: Jupyter notebook containing the complete code.
+- `breast_cancer.ipynb`: Jupyter Notebook containing the code using KNN algorithm 
 - `README.md`: This file explaining the project.
 - Any additional files (like data files or saved model files) if used.
 
